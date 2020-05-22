@@ -5,6 +5,7 @@ import LazyLoad from 'react-lazyload';
 export default class MainFeed extends React.Component{
     main = {
         paddingTop: "50px",
+        paddingBottom: "50px",
         backgroundColor: "#ed7773",
     }
 

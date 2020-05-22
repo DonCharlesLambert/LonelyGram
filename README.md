@@ -14,13 +14,13 @@ Beautiful, useful, and responsive... a more extensive readMe on the way soon
 `C:\> git clone https://github.com/DonCharlesLambert/React-Piano/`
 
 3. Cd into the project directory  
-`C:\React-Piano\>`
+`C:\LonelyGram\>`
 
 4. Run npm install to install node modules  
-`C:\React-Piano\> npm install`
+`C:\LonelyGram\> npm install`
 
 5. Run npm start  
-`C:\React-Piano\> npm start`
+`C:\LonelyGram\> npm start`
 
 6. Visit http://localhost:3000 or your computers private IP address followed by :3000
 
