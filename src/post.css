@@ -1,0 +1,10 @@
+.post{
+    width: 50%;
+    margin: 2.5% auto 2.5% auto;
+}
+
+@media(max-width: 450px){
+    .post{
+        width: 80%;
+    }
+}
