@@ -11,7 +11,7 @@ Beautiful, useful, and responsive... a more extensive readMe on the way soon
 `C:\>`
 
 2. Clone the directory  
-`C:\> git clone https://github.com/DonCharlesLambert/React-Piano/`
+`C:\> git clone https://github.com/DonCharlesLambert/LonelyGram/`
 
 3. Cd into the project directory  
 `C:\LonelyGram\>`
