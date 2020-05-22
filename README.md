@@ -27,4 +27,4 @@ Beautiful, useful, and responsive... a more extensive readMe on the way soon
 ## Screenshots
 
 ![A beautiful post from the app](https://github.com/DonCharlesLambert/LonelyGram/blob/master/screenshots/ss2.PNG?raw=true)
-![A beautiful post from the app in mobile](https://github.com/DonCharlesLambert/LonelyGram/blob/master/screenshots/ss3.jpeg?raw=true)
+<img src="https://github.com/DonCharlesLambert/LonelyGram/blob/master/screenshots/ss3.jpeg?raw=true" alt="LonelyGram in mobile" width="40%"/>
