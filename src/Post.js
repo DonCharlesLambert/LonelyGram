@@ -64,9 +64,9 @@ export default class Post extends React.Component{
 
     like = () => {
         if (this.state.liked) {
-            this.setState(prev => ({likes: prev.likes + 1, liked: true}))
-        }else{
             this.setState(prev => ({likes: prev.likes - 1, liked: false}))
+        }else{
+            this.setState(prev => ({likes: prev.likes + 1, liked: true}))
         }
     }
 
